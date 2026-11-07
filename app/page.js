@@ -276,7 +276,7 @@ export default function Page() {
               <button className="copy" onClick={() => copy(PROFILE.phone)}>{copied === PROFILE.phone ? 'Copied' : 'Copy number'}</button>
             </div>
           </div>
-          <footer style={{ marginTop: '10vh' }}><span>© 2026 {PROFILE.name}</span><span>Built by *Jarymedia</span><a href="#top">Back to top</a></footer>
+          <footer style={{ marginTop: '10vh' }}><span>© 2026 {PROFILE.name}</span><span><a href="https://jarymedia.vercel.app">Built by *Jarymedia</a></span><a href="#top">Back to top</a></footer>
         </div>
       </section>
     </main>
