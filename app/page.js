@@ -22,6 +22,13 @@ const WORK = [
     note: 'Independent editing sample; not an official collaboration or endorsement.',
   },
   {
+    title: 'The Sibling Co.', tag: 'Agency Behind the Scenes', src: '/videos/work-4.mp4', ratio: 'tall',
+    overview: 'A behind-the-scenes montage capturing the people, production process and everyday moments within a creative agency. The video showcases the personality of the team and gives viewers a glimpse into what happens behind the camera.',
+    approach: 'I wanted to keep the video natural, energetic and personality-driven rather than making it feel like a conventional corporate promotional video. I combined shooting moments, team interactions, product visuals and candid moments into a cohesive montage, using music and pacing to create a more immersive viewing experience.',
+    delivered: ['Footage selection and sequencing', 'Behind-the-scenes storytelling', 'Music-driven editing and pacing', 'Visual transitions and composition', 'Brand-focused closing sequence'],
+    objective: 'Present the agency’s creative process, team culture, and brand personality in an engaging, non-corporate format.',
+  },
+  {
     title: 'BJJ Athlete', tag: 'Personal brand content', src: '/videos/work-2.mp4', ratio: 'tall',
     overview: 'A short-form video created for a Brazilian Jiu-Jitsu athlete and coach, designed to communicate his expertise and personal brand through engaging social media content.',
     approach: 'I approached the video with a storytelling-first editing style, combining the speaker’s message with relevant training footage, supporting visuals and product shots. Rather than relying entirely on talking-head footage, I used visual elements to reinforce the message and maintain viewer interest.',
